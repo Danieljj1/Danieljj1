@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi, I'm Daniel
 
-<!--
-**Danieljj1/Danieljj1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an aspiring software developer building full-stack web applications with React, Node.js, Python, C#, while being adaptable to many other languages and softwares. My work is focused on practical, real-world projects.
+
+Portfolio: https://portfolio-qp19.onrender.com
+
+##Some of my work,
+
+Spanish Practice App (AI-Assisted)
+A web app that helps users practice Spanish by submitting answers and receiving AI-generated feedback, corrections, and alternatives.  
+Uses React, FastAPI (Python), OpenAI API  
+Live Demo: https://spanish-app-front.onrender.com | 📂 [Repository](https://github.com/Danieljj1/Spanish-App)
+
+Code Comment Generator
+A tool that automatically inserts meaningful comments into user-submitted code based on language and difficulty level.  
+Uses Python, OpenAI API  
+Live Demo: https://code-comment-c058.onrender.com |📂 [Repository](https://github.com/Danieljj1/Code_Comment)
+
+Casino Buddy
+A web application designed to help users track casino spending and gameplay insights.  
+Uses C#, ASP.NET, Database  
+Live Demo: https://gamble-buddy-3.onrender.com | 📂 [ Repository](https://github.com/Danieljj1/Gamble-Buddy)
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
