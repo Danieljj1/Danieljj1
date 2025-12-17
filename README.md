@@ -21,6 +21,6 @@ A web application designed to help users track casino spending and gameplay insi
 Uses C#, ASP.NET, Database  
 Live Demo: https://gamble-buddy-3.onrender.com | 📂 [ Repository](https://github.com/Danieljj1/Gamble-Buddy)
 
-Here are some ideas to get you started:
+
 
 
