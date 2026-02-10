@@ -1,10 +1,15 @@
 ## Hi, I'm Daniel
 
-I’m an aspiring software developer building full-stack web applications with React, Node.js, Python, C#, while being adaptable to many other languages and softwares. My work is focused on practical, real-world projects.
+Full-stack developer | React, Python, FastAPI | Building practical web applications
 
 Portfolio: https://portfolio-qp19.onrender.com
 
 ##Some of my work,
+
+Ledger - Personal Finance Tracker
+A full-stack application for tracking income, expenses, and spending patterns across multiple accounts. Users can log transactions, categorize spending, and view visual breakdowns of their finances over time.
+Built with React, FastAPI, Python, PostgreSQL, and JWT authentication. Deployed on Render.
+Live Demo: https://ledger-frontend-f452.onrender.com | 📂 [Repository](https://github.com/Danieljj1/Ledger)
 
 Spanish Practice App (AI-Assisted)
 A web app that helps users practice Spanish by submitting answers and receiving AI-generated feedback, corrections, and alternatives.  
