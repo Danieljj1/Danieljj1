@@ -2,7 +2,7 @@
 
 Full-stack developer | React, Python, FastAPI | Building practical web applications
 
-Portfolio: https://portfolio-qp19.onrender.com
+Portfolio: https://Danieljj1.github.io
 
 ##Some of my work,
 
