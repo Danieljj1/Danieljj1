@@ -26,6 +26,7 @@ A web application designed to help users track casino spending and gameplay insi
 Uses C#, ASP.NET, Database  
 Live Demo: https://gamble-buddy-3.onrender.com | 📂 [ Repository](https://github.com/Danieljj1/Gamble-Buddy)
 
-
-
-
+Daily Critters
+A full-stack app that serves three real, AI-generated animals a day by category, plus a rarity-weighted "Animal of the Day" spotlight and a saved favorites collection.
+Uses Angular, C# (ASP.NET Core), SQLite/EF Core, Claude API, Docker.
+📂 [Repository](https://github.com/Danieljj1/daily-critters)
